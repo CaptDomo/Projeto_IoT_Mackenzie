@@ -1,5 +1,0 @@
-## Hardware
-
-- **Placa ESP32**: Utilizada para a conexão de internet e controle do sensor e atuador.
-- **Sensor DHT22**: Responsável pela coleta de dados de temperatura e umidade.
-- **Relé**: É acionado quando a temperatura atinge um limite configurado, podendo acionar dispositivos externos de resfriamento.
