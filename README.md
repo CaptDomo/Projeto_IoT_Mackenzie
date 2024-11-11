@@ -1,0 +1,2 @@
+# Projeto_IoT_Mackenzie
+Sistema_de_Monitoramento_de_Temperatura_e_Umidade_em_Armazéns
