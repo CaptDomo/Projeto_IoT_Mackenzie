@@ -10,7 +10,7 @@ O código principal está localizado na pasta `src` e foi desenvolvido na Arduin
 
 - **Placa ESP32**: Utilizada para a conexão de internet e controle do sensor e atuador.
 - **Sensor DHT22**: Responsável pela coleta de dados de temperatura e umidade.
-- **Relé**: Controla um dispositivo de ventilação que é acionado quando a temperatura atinge um limite configurado.
+- **Relé**: É acionado quando a temperatura atinge um limite configurado, podendo acionar dispositivos externos.
 
 ## Interfaces e Protocolos de Comunicação
 
